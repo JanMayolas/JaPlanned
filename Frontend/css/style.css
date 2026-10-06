@@ -9,7 +9,7 @@ body {
 
 h1 {
     background-color: transparent;
-    color: white;
+    color:black;
 }
 
 header {
@@ -30,7 +30,7 @@ header {
 .title {
     font-size: 25px;
     font-weight: bold;
-    color:#c6c6c6;
+    color:black;
     margin: 20px 0;
     margin-left: 90px;
 
