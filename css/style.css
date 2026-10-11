@@ -18,6 +18,32 @@ nav {
     padding: 0;
 }
 
+
+.my-day{
+    width: 200px;
+    height: 50px;
+    display: grid;
+    gap: 0;
+    padding: 0;
+    background-color: beige;
+    z-index: 4;
+    position: absolute;
+    top: 7em;
+
+}
+
+.my-day-button{
+    background-color: be;
+    transition-duration: 0.4s;
+    border: none; 
+}
+
+.my-day-button:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+
+}
+
 .nav-container {
     background: #ECEDE5;
     width: 100%;
@@ -55,6 +81,7 @@ footer {
 }
 
 .title {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     font-weight: bold;
     color: black;
